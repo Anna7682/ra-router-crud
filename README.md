@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/kq34hvhcp63679x8?svg=true)](https://ci.appveyor.com/project/vapanov/ra-router-crud)
+[![Build status](https://ci.appveyor.com/api/projects/status/xq36hyt1et9j9fs6?svg=true)](https://ci.appveyor.com/project/Anna7682/ra-router-crud)
 
 WEB VERSION https://anna7682.github.io/ra-router-crud/
 
